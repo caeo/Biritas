@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "77077csc",
-    "database": "db_biritas",
-    "host": "127.0.0.1",
+    "username": "freedb_cajor",
+    "password": "phqBXygXJd*uHs3",
+    "database": "freedb_db_biritas",
+    "host": "sql.freedb.tech",
     "dialect": "mysql"
   },
   "test": {
