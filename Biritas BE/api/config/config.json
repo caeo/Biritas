@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "freedb_cajor",
-    "password": "phqBXygXJd*uHs3",
-    "database": "freedb_db_biritas",
-    "host": "sql.freedb.tech",
+    "username": "root",
+    "password": "77077csc",
+    "database": "db_biritas",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "freedb_cajor",
-    "password": "phqBXygXJd*uHs3",
-    "database": "freedb_db_biritas",
-    "host": "sql.freedb.tech",
+    "username": "root",
+    "password": "77077csc",
+    "database": "db_biritas",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   }
 }
