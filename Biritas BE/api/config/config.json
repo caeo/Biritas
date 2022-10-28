@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "77077csc",
-    "database": "db_biritas",
-    "host": "127.0.0.1",
+    "username": "bad0e7be8ed805",
+    "password": "779aa3df",
+    "database": "heroku_4c329ab62423499",
+    "host": "us-cdbr-east-06.cleardb.net",
     "dialect": "mysql"
   },
   "test": {
@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "77077csc",
-    "database": "db_biritas",
-    "host": "127.0.0.1",
+    "username": "bad0e7be8ed805",
+    "password": "779aa3df",
+    "database": "heroku_4c329ab62423499",
+    "host": "us-cdbr-east-06.cleardb.net",
     "dialect": "mysql"
   }
 }
